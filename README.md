@@ -26,7 +26,7 @@ Project is created with:
 
 ### Home page
 * Displays customer reviews, bicycle news and an advertising banner for the store
-<img src = "https://github.com/DominikGazda/bike-shop-ui/blob/develop/images/home.png" />
+<img src = "https://github.com/lukaszj9800/fitness-planner-ui/blob/develop/images/mainPage.png" />
 ### Product list page
 * Path (depends on wchich category we choose): 
     - /parts,
