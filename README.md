@@ -1,5 +1,3 @@
-# FitnessPlanner
-
 # Fitness Planner
 #### Fitness Planner application created by using Angular
 
@@ -24,4 +22,18 @@ Project is created with:
 * Add, modify and delete existing meals, exercises, training plans, meal plans and articles
 * Manage your account
 
-## User Interface
+## User interface - example views
+
+### Home page
+* Displays customer reviews, bicycle news and an advertising banner for the store
+<img src = "https://github.com/DominikGazda/bike-shop-ui/blob/develop/images/home.png" />
+### Product list page
+* Path (depends on wchich category we choose): 
+    - /parts,
+    - /accessories,
+    - /bikes,
+    - /workshop 
+* Displays product list
+* Displays sidebar with filters
+<img src = "https://github.com/DominikGazda/bike-shop-ui/blob/develop/images/parts.png" />
+
