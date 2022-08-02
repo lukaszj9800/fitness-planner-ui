@@ -25,15 +25,7 @@ Project is created with:
 ## User interface - example views
 
 ### Home page
-* Displays customer reviews, bicycle news and an advertising banner for the store
+* Home page displays a list of articles on healthy eating in the form of tiles
 <img src = "https://github.com/lukaszj9800/fitness-planner-ui/blob/main/images/main_page.png" />
-### Product list page
-* Path (depends on wchich category we choose): 
-    - /parts,
-    - /accessories,
-    - /bikes,
-    - /workshop 
-* Displays product list
-* Displays sidebar with filters
-<img src = "https://github.com/DominikGazda/bike-shop-ui/blob/develop/images/parts.png" />
+
 
