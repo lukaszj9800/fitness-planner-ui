@@ -44,6 +44,7 @@ Project is created with:
 * It presents a login panel and a button redirecting to the registration form.
 <img src = "https://github.com/lukaszj9800/fitness-planner-ui/blob/main/images/log.png" />
 
-
-
+### Register page
+* Page displaying the form used to register a new user.
+<img src = "https://github.com/lukaszj9800/fitness-planner-ui/blob/main/images/register.png" />
 
