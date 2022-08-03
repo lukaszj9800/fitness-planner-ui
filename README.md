@@ -25,12 +25,16 @@ Project is created with:
 ## User interface - example views
 
 ### Home page
-* Home page displays a list of articles on healthy eating in the form of tiles
+* Home page displays a list of articles on healthy eating in the form of tiles.
 <img src = "https://github.com/lukaszj9800/fitness-planner-ui/blob/main/images/main_page.png" />
 
-### Meal Plans
-* Displays a list of meal plans created by logged in users
+### Meal plans
+* Displays a list of meal plans created by logged in users.
 <img src = "https://github.com/lukaszj9800/fitness-planner-ui/blob/main/images/meal_plans.png" />
+
+### Meal Plans details
+* Displays all meals that include a meal plan, broken down into days of the week and types of meals.
+<img src = "https://github.com/lukaszj9800/fitness-planner-ui/blob/main/images/meal_plan_details.png" />
 
 
 
