@@ -28,4 +28,9 @@ Project is created with:
 * Home page displays a list of articles on healthy eating in the form of tiles
 <img src = "https://github.com/lukaszj9800/fitness-planner-ui/blob/main/images/main_page.png" />
 
+### Meal Plans
+* Displays a list of meal plans created by logged in users
+<img src = "https://github.com/lukaszj9800/fitness-planner-ui/blob/main/images/meal_plans.png" />
+
+
 
