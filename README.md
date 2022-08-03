@@ -22,7 +22,7 @@ Project is created with:
 * Add, modify and delete existing meals, exercises, training plans, meal plans and articles
 * Manage your account
 
-## User interface - example views
+## User Interface - example views
 
 ### Home page
 * Home page displays a list of articles on healthy eating in the form of tiles.
