@@ -40,5 +40,10 @@ Project is created with:
 * Contains all information about the logged in user. Provides the ability to edit this data
 <img src = "https://github.com/lukaszj9800/fitness-planner-ui/blob/main/images/acount_manage.png" />
 
+### Login page
+* It presents a login panel and a button redirecting to the registration form.
+<img src = "https://github.com/lukaszj9800/fitness-planner-ui/blob/main/images/log.png" />
+
+
 
 
