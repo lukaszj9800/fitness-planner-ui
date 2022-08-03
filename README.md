@@ -36,5 +36,9 @@ Project is created with:
 * Displays all meals that include a meal plan, broken down into days of the week and types of meals.
 <img src = "https://github.com/lukaszj9800/fitness-planner-ui/blob/main/images/meal_plan_details.png" />
 
+### Manage account
+* Contains all information about the logged in user. Provides the ability to edit this data
+<img src = "https://github.com/lukaszj9800/fitness-planner-ui/blob/main/images/acount_manage_.png" />
+
 
 
